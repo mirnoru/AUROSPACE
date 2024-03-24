@@ -3,6 +3,9 @@
   font-size: 18px;
   text-align: left;
   color: white;
-  background-color: #474A9F;
   padding: 50px 50px 50px 30px;
+}
+
+body {
+    background-color: #474A9F;
 }
