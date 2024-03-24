@@ -1,17 +1,7 @@
-@keyframes cursoranim {
-	from {color: white;}
-	to {color: transparent;}
 .info {
   font-family: "Space Mono", "Lucida Console", monospace;
   font-size: 18px;
   text-align: left;
   color: white;
   padding: 50px 50px 50px 50px;
-}
-
-.cursor {
-	color: white;
-	animation-name: cursoranim;
-	animation-duration: 1s;
-	animation-iteration-count: infinite;
 }
